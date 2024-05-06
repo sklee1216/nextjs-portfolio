@@ -17,6 +17,14 @@ export default {
           },
         },
       },
+      colors: {
+        black: '#000000', // Add black color
+        // Define dark mode colors
+        dark: {
+          bg: '#1a1a1a', // Background color
+          text: '#ffffff', // Text color
+        },
+      },
     },
   },
   future: {
